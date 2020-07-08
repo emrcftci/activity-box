@@ -21,12 +21,10 @@
 
 1. [Create a template repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) by clicking [here](https://github.com/JasonEtco/activity-box/generate). Alternatively, you can click the _Use this template_ button:
 
-| <img alt="Screenshot of the GitHub repository UI, with the Use this template button highlighted" src="assets/use-this-template.png" width="600" /> |
 | --- |
 
 Name your repository and click _Create repository from template_.
 
-| <img alt="Screenshot of the GitHub repository creation UI" src="assets/create-repository-from-template.png" width="500" /> |
 | --- |
 
 2. Create a `.github/workflows/activity-box.yml` file with a workflow like this:
@@ -65,5 +63,3 @@ jobs:
 - **GH_USERNAME:** The username handle of the GitHub account.
 
 ---
-
-_Inspired by [matchai/bird-box](https://github.com/matchai/bird-box)_
