@@ -21,11 +21,7 @@
 
 1. [Create a template repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) by clicking [here](https://github.com/JasonEtco/activity-box/generate). Alternatively, you can click the _Use this template_ button:
 
-| --- |
-
 Name your repository and click _Create repository from template_.
-
-| --- |
 
 2. Create a `.github/workflows/activity-box.yml` file with a workflow like this:
 
